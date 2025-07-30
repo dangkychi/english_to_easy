@@ -74,7 +74,7 @@ class EditUser extends Component
             'roles' => Role::all(),
             'locales' => [
                 'en' => 'English',
-                'da' => 'Danish',
+                'vi' => 'Vietnamese',
             ],
         ]);
     }
